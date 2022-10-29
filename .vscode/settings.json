@@ -1,0 +1,10 @@
+{
+    "eslint.debug": false,
+    "eslint.notebooks.rules.customizations": [
+    
+    ],
+    "eslint.rules.customizations": [
+    
+    ],
+    "eslint.execArgv": null
+}
