@@ -11,7 +11,7 @@ const Pages = () => {
   return (
     <AnimatePresence mode='wait'>
       <Routes loaction={loaction} key={loaction.pathname}>
-        <Route path='/recipiciousss' element={<Home/>} />
+        <Route path='/recipeciousss' element={<Home/>} />
         <Route path='/cuisine/:type' element={<Cuisine />} />
         <Route path='/searched/:search' element={<Searched />} />
         <Route path='/recipe/:name' element={<Recipe/>}/>
